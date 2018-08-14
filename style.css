@@ -72,6 +72,10 @@ aside{
     line-height: 250px;
     }
 
+.clearfix {
+    overflow: auto;
+}
+
 footer {
     background-color: #ebebeb;
     margin-top: 20px;
